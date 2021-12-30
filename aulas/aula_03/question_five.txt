@@ -1,0 +1,4 @@
+name "Skin color" Alignment
+"Killer Frost" blue bad
+Mystique blue bad
+Nebula blue bad
